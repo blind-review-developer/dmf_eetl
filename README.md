@@ -3,6 +3,6 @@
 
 This repository contains relevant material referenced in the paper for the double-blind review process. This material is normally available on our research group website and repository, now hidden for double-blind review purposes.
 
-# Study case video
+## Study case video
 
-<iframe  title="YouTube video player" width="480" height="390" src="https://youtu.be/DKnyfhBay6Y></iframe>
+The video is part of this repository and can also be viewed at [https://youtu.be/DKnyfhBay6Y](https://youtu.be/DKnyfhBay6Y).
